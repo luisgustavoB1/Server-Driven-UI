@@ -1,1 +1,1 @@
-{"_:component":"layout:screen","state":{},"children":[{"_:component":"layout:text","properties":{"size":15,"weight":"bold","text":"oi"}}],"properties":{"title":"My screen generate"}}
+{"_:component":"layout:screen","state":{},"children":[{"_:component":"layout:text","properties":{"size":15,"weight":"bold","text":"Test"}}],"properties":{"title":"My screen generate"}}

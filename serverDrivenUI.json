@@ -1,1 +1,1 @@
-{"_:component":"layout:screen","state":{},"children":[{"_:component":"layout:text","properties":{"size":15,"weight":"bold","text":"nossa um texto é gigante"}},{"_:component":"store:button","properties":{"text":"entrar","onPress":[]}}],"properties":{"title":"E agora"}}
+{"_:component":"layout:screen","state":{},"children":[{"_:component":"layout:text","properties":{"size":15,"weight":"bold","text":"o texto e muito grande"}}],"properties":{"title":"Minha"}}

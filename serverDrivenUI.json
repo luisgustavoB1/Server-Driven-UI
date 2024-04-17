@@ -1,1 +1,1 @@
-{"_:component":"layout:screen","state":{},"children":[{"_:component":"layout:text","properties":{"size":15,"weight":"bold","text":"oi"}},{"_:component":"store:button","properties":{"text":"buy","onPress":[]}}],"properties":{"title":"My Screen"}}
+{"_:component":"layout:screen","state":{},"children":[{"_:component":"layout:text","properties":{"size":15,"weight":"bold","text":"DHJKGSHKJGSJ SJKHSKJHSKJLHSKLJSH"}},{"_:component":"store:button","properties":{"text":"SALVAR","onPress":[]}}],"properties":{"title":"App do luisinho"}}

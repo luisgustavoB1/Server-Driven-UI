@@ -1,1 +1,1 @@
-{"_:component":"layout:screen","state":{},"children":[{"_:component":"layout:text","properties":{"size":15,"weight":"bold","text":"ola"}},{"_:component":"store:button","properties":{"text":"buy","onPress":[]}}],"properties":{"title":"b1"}}
+{"_:component":"layout:screen","state":{},"children":[{"_:component":"layout:text","properties":{"size":15,"weight":"bold","text":"ola"}},{"_:component":"mobilizeFlow:button","properties":{"text":"Comprar","onPress":[]}}],"properties":{"title":"luis"}}
